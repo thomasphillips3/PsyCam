@@ -5,7 +5,7 @@ import os, sys
 
 from random import randint
 
-from cStringIO import StringIO
+from io import StringIO
 import numpy as np
 import scipy.ndimage as nd
 import PIL.Image
